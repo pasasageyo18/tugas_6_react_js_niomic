@@ -1,0 +1,11 @@
+#kontak_bg {
+  background-image: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?w=1800&t=st=1689235923~exp=1689236523~hmac=2e8c7a97144ca82e9ba65f24e4314d3338d61bb396e64db9053d5651645fb017");
+  height: 730px;
+}
+
+.kontak {
+  color: black;
+  text-align: center;
+  margin-top: 208px;
+  background-color: white;
+}
